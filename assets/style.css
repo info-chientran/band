@@ -77,8 +77,6 @@ html {
 }
 
 /* Main */
-#main {}
-
 #header {
     height: 46px;
     background-color: #000;
@@ -166,7 +164,6 @@ html {
 #slider {
     margin-top: 46px;
     padding-top: 50%;
-    background: url('/assets/img/slider/slider1.jpg') top center / cover no-repeat;
 }
 
 #slider .text-content {
@@ -186,8 +183,6 @@ html {
     font-size: 15px;
     margin-top: 25px;
 }
-
-#content {}
 
 #content .content-section {
     width: 800px;
